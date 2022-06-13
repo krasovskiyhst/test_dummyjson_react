@@ -1,0 +1,13 @@
+a {
+	color: #2A2A2A;
+	cursor: pointer;
+	text-decoration-line: underline;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 58px;
+}
+a:hover{
+	color: #3071AD;
+}
+

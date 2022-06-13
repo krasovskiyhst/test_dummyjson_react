@@ -1,0 +1,13 @@
+a.battonBack {
+	border-radius: 3px;
+	font-size: 18px;
+	background: #4A4A4A;
+	cursor: pointer;
+	color: #fff;
+	padding: 6px 20px;
+	text-decoration: none;
+}
+a.battonBack:hover {
+	color: #fff;
+	background: #747474;
+}
